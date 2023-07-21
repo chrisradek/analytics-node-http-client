@@ -1,0 +1,17 @@
+{
+  "name": "analytics-node-http-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@segment/analytics-node": "^1.1.0",
+    "axios": "^1.4.0",
+    "node-fetch": "^3.3.1"
+  }
+}
